@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # osx noise
 .DS_Store
 profile
@@ -17,6 +18,8 @@ xcuserdata
 .svn
 CVS
 
+=======
+>>>>>>> 41303b14c4a3fad1f2d63ac9757c2e723f4bf881
 *.py[co]
 
 # Packages
@@ -43,4 +46,8 @@ pip-log.txt
 *.mo
 
 #Mr Developer
+<<<<<<< HEAD
 .mr.developer.cfg
+=======
+.mr.developer.cfg
+>>>>>>> 41303b14c4a3fad1f2d63ac9757c2e723f4bf881
